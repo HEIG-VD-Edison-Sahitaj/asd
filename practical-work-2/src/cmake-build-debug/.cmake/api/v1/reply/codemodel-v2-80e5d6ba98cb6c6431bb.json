@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASD_2024_L4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "L5-cc1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L5-cc1-Debug-cff51df1cbcbcc3e220c.json",
+					"name" : "L5-cc1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L5-cc2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L5-cc2-Debug-ac8329966d0668f17aba.json",
+					"name" : "L5-cc2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L5-cc3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L5-cc3-Debug-8b90b7cf580a2b07f575.json",
+					"name" : "L5-cc3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L5-cc4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L5-cc4-Debug-165f8c2acf6a585ae7bc.json",
+					"name" : "L5-cc4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/edison/HEIGVD/2eme/ASD/TP/l4-buffer-circulaire-de-capacit-variable-l4_schildbock_markaj_sahitaj/src/cmake-build-debug",
+		"source" : "/Users/edison/HEIGVD/2eme/ASD/TP/l4-buffer-circulaire-de-capacit-variable-l4_schildbock_markaj_sahitaj/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

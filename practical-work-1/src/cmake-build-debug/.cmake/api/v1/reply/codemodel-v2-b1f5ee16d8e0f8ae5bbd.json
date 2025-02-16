@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASD2022-L1-Complexite",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "L1-example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L1-example-Debug-8ded1826e4f336541287.json",
+					"name" : "L1-example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L1-mainCountComparisonAndAffectation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L1-mainCountComparisonAndAffectation-Debug-eeedde05ca3353c5515b.json",
+					"name" : "L1-mainCountComparisonAndAffectation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L1-mainTestCustomSorts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L1-mainTestCustomSorts-Debug-f4d0bab1e760a21b2855.json",
+					"name" : "L1-mainTestCustomSorts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "L1-mainTimeMeasurement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-L1-mainTimeMeasurement-Debug-437af03edb1580fe9823.json",
+					"name" : "L1-mainTimeMeasurement",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/edison/HEIGVD/2eme/ASD/TP/labo-1-complexites-schildbock_markaj_sahitaj/src/cmake-build-debug",
+		"source" : "/Users/edison/HEIGVD/2eme/ASD/TP/labo-1-complexites-schildbock_markaj_sahitaj/src"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

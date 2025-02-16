@@ -1,0 +1,12 @@
+# ninja log v5
+1168	1296	1709220188040301597	L1-second	a86987b628fabe20
+425	456	1708604834665644379	L1-first	81b444c50aa9a4e4
+778	813	1708529115434253705	L1-example	4d280cfcde78859a
+1031	1132	1709572540919306739	L1-mainCountComparisonAndAffectation	c0bce877566efaa
+1267	1393	1709572805377999232	L1-mainTimeMeasurement	e56f8675fbb54ad3
+2	1267	1709572805249877610	CMakeFiles/L1-mainTimeMeasurement.dir/mainTimeMeasurement.cpp.o	420553513f4a2b37
+9	86	1718196508285905719	build.ninja	9701e96a35a15e99
+0	776	1708529115395243043	CMakeFiles/L1-example.dir/example.cpp.o	474cd8e4f1e4c243
+0	1030	1709572540813372207	CMakeFiles/L1-mainCountComparisonAndAffectation.dir/mainCountComparisonAndAffectation.cpp.o	555462e29a8e64ce
+0	1088	1709638148466522509	CMakeFiles/L1-mainTestCustomSorts.dir/mainTestCustomSorts.cpp.o	5b5ad280642d8010
+1088	1319	1709638148702284929	L1-mainTestCustomSorts	7b6cb298226bae6d
